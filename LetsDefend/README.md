@@ -31,7 +31,7 @@ Phishing-email-analysis:
 ## How to use this workspace
 
 1. Open a case folder (for example, `phishing-email-analysis/SOC114 - Malicious Attachment Detected - Phishing Alert`).
-2. Review `analyst-note.md` / `analyst-notes.md` for investigation steps and evidence.
+2. Review `analyst-note.md` for investigation steps and evidence.
 3. See the final incident report in each case's `report/` or `reports/` subfolder for a concise summary.
 
 ## Suggested next steps
